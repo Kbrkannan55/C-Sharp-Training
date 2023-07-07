@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "sE6b2xlCE0tSywXsjeOhmmEV16clo6HbpAbx+OeN8pGgbra7KJ6xr3PLjvJwqZgUk07qxvJXvGoq3tAp5uBNoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kbrka\\OneDrive\\Desktop\\practical training\\C#\\genericdelegates\\genericdelegates\\genericdelegates.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kbrka\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\kbrka\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\kbrka\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\kbrka\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

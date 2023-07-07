@@ -1,0 +1,15 @@
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\basicprgm1\basicprgm1\bin\Debug\net6.0\basicprgm1.exe
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\basicprgm1\basicprgm1\bin\Debug\net6.0\basicprgm1.deps.json
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\basicprgm1\basicprgm1\bin\Debug\net6.0\basicprgm1.runtimeconfig.json
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\basicprgm1\basicprgm1\bin\Debug\net6.0\basicprgm1.dll
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\basicprgm1\basicprgm1\bin\Debug\net6.0\basicprgm1.pdb
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\basicprgm1\basicprgm1\obj\Debug\net6.0\basicprgm1.csproj.AssemblyReference.cache
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\basicprgm1\basicprgm1\obj\Debug\net6.0\basicprgm1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\basicprgm1\basicprgm1\obj\Debug\net6.0\basicprgm1.AssemblyInfoInputs.cache
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\basicprgm1\basicprgm1\obj\Debug\net6.0\basicprgm1.AssemblyInfo.cs
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\basicprgm1\basicprgm1\obj\Debug\net6.0\basicprgm1.csproj.CoreCompileInputs.cache
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\basicprgm1\basicprgm1\obj\Debug\net6.0\basicprgm1.dll
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\basicprgm1\basicprgm1\obj\Debug\net6.0\refint\basicprgm1.dll
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\basicprgm1\basicprgm1\obj\Debug\net6.0\basicprgm1.pdb
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\basicprgm1\basicprgm1\obj\Debug\net6.0\basicprgm1.genruntimeconfig.cache
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\basicprgm1\basicprgm1\obj\Debug\net6.0\ref\basicprgm1.dll

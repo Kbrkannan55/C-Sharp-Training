@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="sample" Class="SampleDBDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=KBRKANNAN\SQLEXPRESS;Initial Catalog=sample;Integrated Security=True" SettingsObjectName="LinqtoSql.Properties.Settings" SettingsPropertyName="sampleConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.department" Member="departments">
+    <Type Name="department">
+      <Column Name="deptnos" Type="System.Int64" DbType="BigInt NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="deparname" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.staff_Master" Member="staff_Masters">
+    <Type Name="staff_Master">
+      <Column Name="Staff_Code" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Staff_Name" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Design_Code" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Dept_Code" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Staff_dob" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="Hiredate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="Mgr_code" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Staff_sal" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Staff_address" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.emp" Member="emps">
+    <Type Name="emp">
+      <Column Name="empno" Type="System.Int64" DbType="BigInt NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="empname" Type="System.String" DbType="VarChar(25) NOT NULL" CanBeNull="false" />
+      <Column Name="ph" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="deptno" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="design" Type="System.String" DbType="VarChar(25) NOT NULL" CanBeNull="false" />
+      <Column Name="manager" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.EmpLog" Member="EmpLogs">
+    <Type Name="EmpLog">
+      <Column Name="LogID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="EmpID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Operation" Type="System.String" DbType="NVarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="UpdatedDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.saample" Member="saamples">
+    <Type Name="saample">
+      <Column Name="name" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="number" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.saample2" Member="saample2s">
+    <Type Name="saample2">
+      <Column Name="name" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="number" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.sample" Member="samples">
+    <Type Name="sample">
+      <Column Name="name" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="number" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.stud" Member="studs">
+    <Type Name="stud">
+      <Column Name="rnos" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="dob" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.student" Member="students">
+    <Type Name="student">
+      <Column Name="rno" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="sname" Type="System.String" DbType="VarChar(25)" CanBeNull="true" />
+      <Column Name="dob" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="addr" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="email" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="phone" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

@@ -1,0 +1,8 @@
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\linqdemo\LinqtoSql\bin\Debug\LinqtoSql.exe.config
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\linqdemo\LinqtoSql\bin\Debug\LinqtoSql.exe
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\linqdemo\LinqtoSql\bin\Debug\LinqtoSql.pdb
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\linqdemo\LinqtoSql\obj\Debug\LinqtoSql.csproj.AssemblyReference.cache
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\linqdemo\LinqtoSql\obj\Debug\LinqtoSql.csproj.SuggestedBindingRedirects.cache
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\linqdemo\LinqtoSql\obj\Debug\LinqtoSql.csproj.CoreCompileInputs.cache
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\linqdemo\LinqtoSql\obj\Debug\LinqtoSql.exe
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\linqdemo\LinqtoSql\obj\Debug\LinqtoSql.pdb

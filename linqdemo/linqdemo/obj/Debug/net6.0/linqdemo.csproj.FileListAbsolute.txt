@@ -1,0 +1,15 @@
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\linqdemo\linqdemo\bin\Debug\net6.0\linqdemo.exe
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\linqdemo\linqdemo\bin\Debug\net6.0\linqdemo.deps.json
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\linqdemo\linqdemo\bin\Debug\net6.0\linqdemo.runtimeconfig.json
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\linqdemo\linqdemo\bin\Debug\net6.0\linqdemo.dll
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\linqdemo\linqdemo\bin\Debug\net6.0\linqdemo.pdb
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\linqdemo\linqdemo\obj\Debug\net6.0\linqdemo.csproj.AssemblyReference.cache
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\linqdemo\linqdemo\obj\Debug\net6.0\linqdemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\linqdemo\linqdemo\obj\Debug\net6.0\linqdemo.AssemblyInfoInputs.cache
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\linqdemo\linqdemo\obj\Debug\net6.0\linqdemo.AssemblyInfo.cs
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\linqdemo\linqdemo\obj\Debug\net6.0\linqdemo.csproj.CoreCompileInputs.cache
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\linqdemo\linqdemo\obj\Debug\net6.0\linqdemo.dll
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\linqdemo\linqdemo\obj\Debug\net6.0\refint\linqdemo.dll
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\linqdemo\linqdemo\obj\Debug\net6.0\linqdemo.pdb
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\linqdemo\linqdemo\obj\Debug\net6.0\linqdemo.genruntimeconfig.cache
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\linqdemo\linqdemo\obj\Debug\net6.0\ref\linqdemo.dll

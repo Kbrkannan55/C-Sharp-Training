@@ -1,0 +1,53 @@
+﻿@model IEnumerable<FinalAPIProject.Models.Customer>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Cusname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cusph)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cusaddress)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cuspassword)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cusname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cusph)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cusaddress)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cuspassword)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Cusid">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Cusid">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Cusid">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,15 @@
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\genericdelegates\genericdelegates\bin\Debug\net6.0\genericdelegates.exe
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\genericdelegates\genericdelegates\bin\Debug\net6.0\genericdelegates.deps.json
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\genericdelegates\genericdelegates\bin\Debug\net6.0\genericdelegates.runtimeconfig.json
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\genericdelegates\genericdelegates\bin\Debug\net6.0\genericdelegates.dll
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\genericdelegates\genericdelegates\bin\Debug\net6.0\genericdelegates.pdb
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\genericdelegates\genericdelegates\obj\Debug\net6.0\genericdelegates.csproj.AssemblyReference.cache
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\genericdelegates\genericdelegates\obj\Debug\net6.0\genericdelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\genericdelegates\genericdelegates\obj\Debug\net6.0\genericdelegates.AssemblyInfoInputs.cache
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\genericdelegates\genericdelegates\obj\Debug\net6.0\genericdelegates.AssemblyInfo.cs
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\genericdelegates\genericdelegates\obj\Debug\net6.0\genericdelegates.csproj.CoreCompileInputs.cache
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\genericdelegates\genericdelegates\obj\Debug\net6.0\genericdelegates.dll
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\genericdelegates\genericdelegates\obj\Debug\net6.0\refint\genericdelegates.dll
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\genericdelegates\genericdelegates\obj\Debug\net6.0\genericdelegates.pdb
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\genericdelegates\genericdelegates\obj\Debug\net6.0\genericdelegates.genruntimeconfig.cache
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\genericdelegates\genericdelegates\obj\Debug\net6.0\ref\genericdelegates.dll

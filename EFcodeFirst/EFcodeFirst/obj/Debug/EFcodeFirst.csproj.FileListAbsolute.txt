@@ -1,0 +1,8 @@
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\EFcodeFirst\EFcodeFirst\bin\Debug\EFcodeFirst.exe.config
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\EFcodeFirst\EFcodeFirst\bin\Debug\EFcodeFirst.exe
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\EFcodeFirst\EFcodeFirst\bin\Debug\EFcodeFirst.pdb
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\EFcodeFirst\EFcodeFirst\obj\Debug\EFcodeFirst.csproj.AssemblyReference.cache
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\EFcodeFirst\EFcodeFirst\obj\Debug\EFcodeFirst.csproj.SuggestedBindingRedirects.cache
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\EFcodeFirst\EFcodeFirst\obj\Debug\EFcodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\EFcodeFirst\EFcodeFirst\obj\Debug\EFcodeFirst.exe
+C:\Users\kbrka\OneDrive\Desktop\practical training\C#\EFcodeFirst\EFcodeFirst\obj\Debug\EFcodeFirst.pdb
